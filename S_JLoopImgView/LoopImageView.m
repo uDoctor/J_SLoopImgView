@@ -12,7 +12,7 @@
 #import <UIImageView+WebCache.h>
 @interface LoopImageView()<UIScrollViewDelegate>
 
-//
+//tssss
 @property (nonatomic, strong) J_SirPageView  * pageController;
 //自定义 page controller
 //@property (nonatomic, strong) J_SirPageControl * myPageControl;
